@@ -1,0 +1,8 @@
+package com.adri1711.rolcards.cards;
+
+public enum CardEffect {
+  DAMAGE, HEAL, DRAW, SPAWN,
+  DAMAGE_ALL, HEAL_ALL, MANA, STEAL_MANA,
+  POISON, BURN, STUN, SHIELD, LIFESTEAL,
+  DISCARD, RAGE, CRITICAL, RANDOM
+}
