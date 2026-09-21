@@ -1,5 +1,0 @@
-package com.adri1711.rolcards.jugador;
-
-public enum Fase {
-  NONE, CARDCLASS, NAME, PRICE, MANA_COST, PERM, LINE1, LINE2, LINE3, LINE4, LINE5, TYPE, VALUE_TYPE, MOBNAME, DAMAGE, HEALTH;
-}
